@@ -1,2 +1,2 @@
-# Simulador-de-promo-o
+# Simulador-de-promocao
 App para simular promoção com base na antiguidade
